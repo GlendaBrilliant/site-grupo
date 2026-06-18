@@ -34,7 +34,7 @@ README.md   → apresentação e estratégia do projeto
 1. Clone o repositório:
 https://github.com/GlendaBrilliant/site-grupo
 2. Abra a pasta `/src`
-3. Abra o arquivo `index.html` no navegador
+3. Abra o arquivo `index.html` no navegador.
 
 ---
 
@@ -45,7 +45,7 @@ O grupo adotou versionamento incremental com commits semânticos:
 - Cada membro trabalhou em sua responsabilidade separadamente
 - Commits foram feitos a cada funcionalidade concluída, nunca tudo de uma vez
 - Padrão adotado: `feat:`, `fix:`, `docs:`, `chore:`
-- Histórico construído de forma progressiva para refletir o processo real de desenvolvimento
+- Histórico construído de forma progressiva para refletir o processo real de desenvolvimento.
 
 ---
 
