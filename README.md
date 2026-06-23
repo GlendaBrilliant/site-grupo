@@ -1,3 +1,11 @@
+---
+
+## 📚 Disciplina
+
+**Integração e Entrega Contínua — FATEC Taubaté**
+
+---
+
 # 👨‍💻 Site do Grupo — Nível 2
 
 Projeto desenvolvido como entregável da **Atividade Nível 2** da disciplina de
@@ -47,8 +55,16 @@ O grupo adotou versionamento incremental com commits semânticos:
 - Padrão adotado: `feat:`, `fix:`, `docs:`, `chore:`
 - Histórico construído de forma progressiva para refletir o processo real de desenvolvimento.
 
+
 ---
 
-## 📚 Disciplina
+## 🔀 Estratégia de Branches e Pull Requests
 
-**Integração e Entrega Contínua — FATEC Taubaté**
+A partir do Nível 3, o grupo adotou o fluxo de branches e revisão de código:
+
+- Cada nova funcionalidade é desenvolvida em uma branch separada
+- Nomenclatura adotada: `feat-nome-da-tarefa`, `fix-nome-do-erro`
+- Toda branch gera um Pull Request antes de ser integrada à main
+- Regra do grupo: quem abre o PR não pode revisar nem fazer o merge do próprio código
+- Todo PR passa por revisão de outro membro antes do merge
+- Conflitos identificados durante o merge são resolvidos em conjunto, conversando no grupo antes de decidir qual versão manter
