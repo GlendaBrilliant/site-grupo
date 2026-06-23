@@ -1,11 +1,3 @@
----
-
-## 📚 Disciplina
-
-**Integração e Entrega Contínua — FATEC Taubaté**
-
----
-
 # 👨‍💻 Site do Grupo — Nível 2
 
 Projeto desenvolvido como entregável da **Atividade Nível 2** da disciplina de
@@ -68,3 +60,12 @@ A partir do Nível 3, o grupo adotou o fluxo de branches e revisão de código:
 - Regra do grupo: quem abre o PR não pode revisar nem fazer o merge do próprio código
 - Todo PR passa por revisão de outro membro antes do merge
 - Conflitos identificados durante o merge são resolvidos em conjunto, conversando no grupo antes de decidir qual versão manter
+
+
+---
+
+## 📚 Disciplina
+
+**Integração e Entrega Contínua — FATEC Taubaté**
+
+---
